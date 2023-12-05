@@ -1,2 +1,2 @@
 # Aragogue
-Distributed Scrapy spiders management platform
+Anti-Bot bypassing System 
